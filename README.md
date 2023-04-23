@@ -14,6 +14,7 @@ Employment Turnover Rate is a measurement of how many employees leave an organis
 
 ## Dataset used
 The dataset used for this project is retrieved from [here](https://www.kaggle.com/datasets/rohitsahoo/employee?resource=download)
+We have also attached the exact dataset file used above.
 
 
 ## Presentation
