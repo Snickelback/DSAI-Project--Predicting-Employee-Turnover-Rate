@@ -35,6 +35,7 @@ The presentation slides and video are attached above.
 
 5. Conclusions
 
+## Conclusions
 Our ML models Logistic Regression and Random Forest helped us establish a great way to predict the employer turnover rate. The Logistic Regression model was particularly effective in establishing the variables that were key in predicting the turnover rate. They are the 5 we identified:
 - Overtime
 - EnvironmentSatisfaction
@@ -45,8 +46,6 @@ Our ML models Logistic Regression and Random Forest helped us establish a great 
 However, the accuracy of the model is certainly of concern. On the other hand, the random forest model is much more accurate and effective in predicting the turnover rate.
 
 The variables identified are definitely not the only ones that result in signoificant employee turnovers; there exist other variables too that we could not explore here in this dataset. Yet, this model provides a good start with particularly helpful information to ensure that turnover rates can be kept to a minimum.
-
-## Conclusions
 
 
 ## Key learning points
