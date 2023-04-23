@@ -17,7 +17,7 @@ The dataset used for this project is retrieved from [here](https://www.kaggle.co
 
 
 ## Presentation
-The presentation slides and video are attached above.
+The presentation slides are attached above.
 
 ## Brief process walkthrough
 
