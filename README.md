@@ -67,4 +67,6 @@ The variables identified are definitely not the only ones that result in signoif
 - https://www.kaggle.com/code/gauri1996/employeeattritionrate-analysis-modelling#Read-dataframe-&-analyzing-it
 - https://www.kaggle.com/code/aradhanapratap/employee-attrition-eda-7-classifier-evaluations#kln-196
 - https://chartio.com/resources/tutorials/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe/
-- 
+- https://www.kaggle.com/datasets/itssuru/hr-employee-attrition
+- https://towardsdatascience.com/quick-and-easy-explanation-of-logistics-regression-709df5cc3f1e#:~:text=Logistic%20regression%20is%20a%20statistical,to%20model%20the%20conditional%20probability.&text=This%20is%20read%20as%20the,Y%3D0%2C%20given%20X.&text=An%20example%20of%20logistic%20regression,credit%20card%20payment%20or%20not.
+- https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
