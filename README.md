@@ -51,8 +51,8 @@ The variables identified are definitely not the only ones that result in signoif
 
 ## Key learning points
 - Label Encoding for categorical variables
-- Logistic regression model training & evaluation
-- Random Forest Classifier Model training & Evaluation
+- Logistic Regression model training & evaluation
+- Random Forest Classifier Model training & evaluation
 - How to collaborate on Github
 
 
