@@ -1,4 +1,4 @@
-# DSAI Project: Predicting-Employee-Turnover-Rate
+# DSAI Project: Predicting Employee Turnover Rate
 
 ## About
 
