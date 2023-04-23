@@ -4,7 +4,8 @@
 
 This is our SC1015 DSAI Mini Project titled Predicting Employee Turnover Rate.
 
-(Rationale)
+Employment Turnover Rate is a measurement of how many employees leave an organisation over a specific period of time. Their withdrawal from the organisation could be caused by many factors and it could be voluntary or involuntary. A voluntary turnover is where employees choose to leave their organisation and it could be due to stress, an unfavourable working environment in the company or personal reasons. An involuntary turnover on the other hand is where employers choose to terminate employees, and this could be due to the employee’s inadequacy or employers trying to cut costs. We wish to focus on the voluntary employee turnover rate, as it would be a very useful “marker” and indicator for employers. With an awareness of the voluntary employee turnover rate, employers would get a better sense of how happy or satisfied their employees are while working for them, and they can act on the problem should the predicted rate be very high.
+
 
 ## Problem definition
 
