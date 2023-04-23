@@ -56,8 +56,8 @@ The variables identified are definitely not the only ones that result in signoif
 
 ## Contributors
 
-1. @snickelback (Nithin Raj)
-2. @_____ (Nora Ke)
+1. @snickelback (Nithin Raj Murali Babu)
+2. @_____ (Ke Nora)
 
 ## References
 
