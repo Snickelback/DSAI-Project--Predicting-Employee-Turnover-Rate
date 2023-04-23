@@ -52,7 +52,8 @@ The variables identified are definitely not the only ones that result in signoif
 ## Key learning points
 - Label Encoding for categorical variables
 - Logistic regression model training & evaluation
-- Random Forest Classifier Model
+- Random Forest Classifier Model training & Evaluation
+- How to collaborate on Github
 
 
 ## Contributors
@@ -65,3 +66,4 @@ The variables identified are definitely not the only ones that result in signoif
 - https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data?datasetId=656&language=Python
 - https://www.kaggle.com/code/gauri1996/employeeattritionrate-analysis-modelling#Read-dataframe-&-analyzing-it
 - https://www.kaggle.com/code/aradhanapratap/employee-attrition-eda-7-classifier-evaluations#kln-196
+- 
