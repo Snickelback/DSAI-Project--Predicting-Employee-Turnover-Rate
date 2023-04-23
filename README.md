@@ -66,4 +66,5 @@ The variables identified are definitely not the only ones that result in signoif
 - https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data?datasetId=656&language=Python
 - https://www.kaggle.com/code/gauri1996/employeeattritionrate-analysis-modelling#Read-dataframe-&-analyzing-it
 - https://www.kaggle.com/code/aradhanapratap/employee-attrition-eda-7-classifier-evaluations#kln-196
+- https://chartio.com/resources/tutorials/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe/
 - 
